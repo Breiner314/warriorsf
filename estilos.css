@@ -1,0 +1,82 @@
+.logo{
+    width: 150px;
+}
+.navbar{
+    background: black;
+}
+a.nav-link{
+    color: white;
+    font-family:"roboto";
+    font-size: 1.2rem;
+    margin-left: 100px; 
+  }
+.bi-person{
+    background-color: white;
+    border-radius: 10px;
+}
+.titulo{
+    text-align: center;
+}
+.carta{
+    display: flex;
+    justify-content: center;
+}
+
+.redes{
+    width: 70px;
+}
+.logo1{
+    width: 90%;
+}
+.copy{
+    font-size: 100%;
+    margin-left: 15%;
+    color: white;
+}
+.red{
+    background: brown;
+}
+.fodn{
+    background: black;
+}
+.color{
+    padding: 20px;
+    background: black;
+}
+.titulo1{
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+}
+.cen{
+    display: block;
+    margin: 0 auto;
+}
+ul{
+    list-style:none
+}
+.m{
+    margin-left: 70px;
+}
+.par{
+    text-align: center;
+    font-size: 1.2rem;
+}
+.personas{
+    width:200px;
+    display: block;
+    margin: 0 auto;
+}
+.btn-danger{
+    background-color: #850f1a;
+}
+.bt{
+    background-color: #850f1a;
+}
+.btn {
+    margin-top: 10px;
+    margin-left: 50px;
+    font-weight: 400;
+    border-radius: 5rem;
+    min-width: 10rem;
+}

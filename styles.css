@@ -1,0 +1,276 @@
+.logo{
+    width: 150px;
+}
+.navbar{
+    background: black;
+}
+.bi-person{
+    background-color: white;
+    border-radius: 10px;
+}
+h2.tienes{
+    color: white;
+    padding: 30px;
+    margin: 10px 50px 0px;
+    font-size: 3rem;
+    font-family:"roboto";
+  }
+  section.home{
+    padding: 10px;
+    background-color: black;
+    background-image: url(../img/IMG.png)  ;
+    background-repeat: no-repeat;
+    background-size: contain ;
+    height: 600px;
+    background-position: right 46%;
+    padding: 30px;
+  }
+  .navbar-brand img{
+    width: 200px;
+    height: auto;
+  }
+  .icon-menu{
+    color: white;
+    font-size: 1.6em;
+  }
+  a.nav-link{
+    color: white;
+    font-family:"roboto";
+    font-size: 1.2rem;
+    margin-left: 100px; 
+  }
+  
+  p{
+    color: white;
+    font-size: 2rem;
+    font-family:"roboto";
+  }
+  h2.color{
+    color: black;
+    font-size: 2.6rem;
+    text-align: center;
+    margin-top: 50px;
+    font-family:"roboto";
+  }
+  
+  
+  p.black{
+    margin-top: 20px;
+    color: black;
+    font-size: 1.3rem;
+    font-family:"roboto";
+    text-align: justify;
+  }
+  img.patada{
+    top: 0px;
+    width: 400px;
+    height: auto;
+    padding: 10px;
+  }
+  h2.eslogan{
+    background: #850f1a;
+    padding: 20px;
+    position: absolute;
+    top: 280px;
+    left: 50px;
+    color: white;
+    font-size: 3rem;
+    font-family:"roboto";
+  }
+  
+  
+  .thumbnail { 
+    position: relative; 
+   } 
+   .cursos1{
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding: 60px;
+  }
+  .cursos1 div{
+    flex-basis: 50%;
+  }
+  .item{
+    padding: 2rem;
+  }
+  
+  .item p{
+    background:#850f1a;
+    border-radius: 100%;
+    position: relative;
+    height: 27rem;
+    width: 27rem;
+    padding: 30px;
+    font-size: 1.6rem;
+    text-align: center;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .item p img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 100px;
+  }
+  .item p .arriba{
+    left: 3.75rem;
+  }
+  .item p .centro{
+    top: 50%;
+    transform: translateY(-50%);
+    left:-4rem;
+  }
+  .item p .abajo{
+    top: auto;
+    bottom: 0;
+    left: 3.75rem;
+  }
+   
+  .posicion{
+    left: 100px;
+  }
+  .iconP{
+    top: -1px;
+    width: 110px;
+    left: -35px;
+    position: absolute;
+  }
+  
+  .sub{
+    color: #860f1b;
+  }
+  .parrafo{
+    color: #ffffff;
+    font-size: 1.1rem;
+  }
+  .title{
+    font-size: 2rem;
+    color:white;
+    
+  }
+  
+  .posturas{
+    padding: 50px;
+  }
+  .position{
+    width: 260px;
+  }
+  
+  .cursos{
+    background-color:black;
+  }
+  
+  .tex-titulo{
+    margin-right: 400px;
+    margin-left: auto;
+    text-align: left;
+    padding: 5% 0%;
+    color: #ffffff;
+    font-size: 2em;
+  }
+  .texto-curso{
+    margin: auto;
+    font-size: 1em;
+    padding: 5% 0;
+    text-align: justify;
+    color: #ffffff;
+  }
+  .cap-img-fluid{
+   width: 560px;
+  }
+  .button{
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+    padding: 5%;
+  }
+  .NC{
+    width: 170px;
+    height: 50px;
+    background-color: #850f1a;
+    margin: 5% 30%;
+    border-radius: 6%;
+  }
+  .imgcur{
+   width: 600px;
+   height: 300px;
+  }
+  .equipo{
+    margin: 50px auto;
+    width: 100%;
+    height: 100%;
+  
+  }
+  .equi1{
+    margin-top: 30px;
+  }
+  .fotos{
+    width: 250px;
+  }
+   h2{
+    font-size: 3em;
+    font-family: "roboto";
+    color: black;
+    text-align: center;
+  }
+  h4{
+   color: black;
+   text-align: justify;
+  }
+  .equipo{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  .nombres{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: black;
+    font-size: 1.5em;
+    font-family: "roboto";
+    margin: 0 30px;
+  }
+  
+  body{
+    overflow-x: hidden;
+  }
+  footer{
+    font-family: "roboto";
+    color: black;
+  }
+  .color{
+      background-color: black;
+  }
+ h3{
+     color: #ffffff;
+ }
+  
+  .siguenos{
+   text-align: center;
+   font-size: 1.8rem;
+  }
+  .text{
+    font-size: 1.4rem;
+  }
+
+  .color1{
+    color: #fff;
+    background-color: #850f1a;
+    border: none;
+  }
+  .titulo{
+    font-size: 1rem;
+    margin-top: 20px;
+  }
+  .titulo2{
+    font-size: 1.5rem;
+    text-align: center;
+  }
