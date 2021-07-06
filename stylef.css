@@ -105,12 +105,13 @@ a.nav-link{
     width: 70px;
 }
 .logo1{
-    width: 90%;
+    width: 250px;
 }
 .copy{
     font-size: 100%;
-    margin-left: 15%;
+    margin-top: 5px;
     color: white;
+    margin-right: 25%;
 }
 .red{
     background: brown;
@@ -146,9 +147,19 @@ ul{
     display: block;
     margin: 0 auto;
 }
-.bt{
-    background-color: #850f1a;
-}
+
 .m{
     margin-left: 70px;
 }
+.btn-danger{
+    background-color: #850f1a;
+}
+.bt{
+    background-color: #850f1a;
+}
+.button1{
+    margin-top: 10px;
+    margin-left: 20%;
+    border-radius: 5rem;
+    width: 80px;
+  }
